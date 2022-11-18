@@ -1,0 +1,92 @@
+C:\Users\gpsqu\Downloads\GadeProject_2\GadeProject\obj\Debug\net6.0-windows\GadeProject.csproj.AssemblyReference.cache
+C:\Users\gpsqu\Downloads\GadeProject_2\GadeProject\obj\Debug\net6.0-windows\GadeProject.Form1.resources
+C:\Users\gpsqu\Downloads\GadeProject_2\GadeProject\obj\Debug\net6.0-windows\GadeProject.csproj.GenerateResource.cache
+C:\Users\gpsqu\Downloads\GadeProject_2\GadeProject\obj\Debug\net6.0-windows\GadeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gpsqu\Downloads\GadeProject_2\GadeProject\obj\Debug\net6.0-windows\GadeProject.AssemblyInfoInputs.cache
+C:\Users\gpsqu\Downloads\GadeProject_2\GadeProject\obj\Debug\net6.0-windows\GadeProject.AssemblyInfo.cs
+C:\Users\gpsqu\Downloads\GadeProject_2\GadeProject\obj\Debug\net6.0-windows\GadeProject.csproj.CoreCompileInputs.cache
+C:\Users\xolan\OneDrive\Desktop\GadeProject_2\GadeProject\bin\Debug\net6.0-windows\GadeProject.exe
+C:\Users\xolan\OneDrive\Desktop\GadeProject_2\GadeProject\bin\Debug\net6.0-windows\GadeProject.deps.json
+C:\Users\xolan\OneDrive\Desktop\GadeProject_2\GadeProject\bin\Debug\net6.0-windows\GadeProject.runtimeconfig.json
+C:\Users\xolan\OneDrive\Desktop\GadeProject_2\GadeProject\bin\Debug\net6.0-windows\GadeProject.dll
+C:\Users\xolan\OneDrive\Desktop\GadeProject_2\GadeProject\bin\Debug\net6.0-windows\GadeProject.pdb
+C:\Users\xolan\OneDrive\Desktop\GadeProject_2\GadeProject\obj\Debug\net6.0-windows\GadeProject.csproj.AssemblyReference.cache
+C:\Users\xolan\OneDrive\Desktop\GadeProject_2\GadeProject\obj\Debug\net6.0-windows\GadeProject.Form1.resources
+C:\Users\xolan\OneDrive\Desktop\GadeProject_2\GadeProject\obj\Debug\net6.0-windows\GadeProject.csproj.GenerateResource.cache
+C:\Users\xolan\OneDrive\Desktop\GadeProject_2\GadeProject\obj\Debug\net6.0-windows\GadeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xolan\OneDrive\Desktop\GadeProject_2\GadeProject\obj\Debug\net6.0-windows\GadeProject.AssemblyInfoInputs.cache
+C:\Users\xolan\OneDrive\Desktop\GadeProject_2\GadeProject\obj\Debug\net6.0-windows\GadeProject.AssemblyInfo.cs
+C:\Users\xolan\OneDrive\Desktop\GadeProject_2\GadeProject\obj\Debug\net6.0-windows\GadeProject.csproj.CoreCompileInputs.cache
+C:\Users\xolan\OneDrive\Desktop\GadeProject_2\GadeProject\obj\Debug\net6.0-windows\GadeProject.dll
+C:\Users\xolan\OneDrive\Desktop\GadeProject_2\GadeProject\obj\Debug\net6.0-windows\refint\GadeProject.dll
+C:\Users\xolan\OneDrive\Desktop\GadeProject_2\GadeProject\obj\Debug\net6.0-windows\GadeProject.pdb
+C:\Users\xolan\OneDrive\Desktop\GadeProject_2\GadeProject\obj\Debug\net6.0-windows\GadeProject.genruntimeconfig.cache
+C:\Users\xolan\OneDrive\Desktop\GadeProject_2\GadeProject\obj\Debug\net6.0-windows\ref\GadeProject.dll
+C:\Users\xolan\OneDrive\Desktop\GADE Task1\GadeProject\obj\Debug\net6.0-windows\GadeProject.csproj.AssemblyReference.cache
+C:\Users\xolan\OneDrive\Desktop\GADE Task1\GadeProject\obj\Debug\net6.0-windows\GadeProject.Form1.resources
+C:\Users\xolan\OneDrive\Desktop\GADE Task1\GadeProject\obj\Debug\net6.0-windows\GadeProject.csproj.GenerateResource.cache
+C:\Users\xolan\OneDrive\Desktop\GADE Task1\GadeProject\obj\Debug\net6.0-windows\GadeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xolan\OneDrive\Desktop\GADE Task1\GadeProject\obj\Debug\net6.0-windows\GadeProject.AssemblyInfoInputs.cache
+C:\Users\xolan\OneDrive\Desktop\GADE Task1\GadeProject\obj\Debug\net6.0-windows\GadeProject.AssemblyInfo.cs
+C:\Users\xolan\OneDrive\Desktop\GADE Task1\GadeProject\obj\Debug\net6.0-windows\GadeProject.csproj.CoreCompileInputs.cache
+C:\Users\xolan\OneDrive\Desktop\GADE Task1\GadeProject\obj\Debug\net6.0-windows\GadeProject.dll
+C:\Users\xolan\OneDrive\Desktop\GADE Task1\GadeProject\obj\Debug\net6.0-windows\refint\GadeProject.dll
+C:\Users\xolan\OneDrive\Desktop\GADE Task1\GadeProject\obj\Debug\net6.0-windows\GadeProject.pdb
+C:\Users\xolan\OneDrive\Desktop\GADE Task1\GadeProject\bin\Debug\net6.0-windows\GadeProject.exe
+C:\Users\xolan\OneDrive\Desktop\GADE Task1\GadeProject\bin\Debug\net6.0-windows\GadeProject.deps.json
+C:\Users\xolan\OneDrive\Desktop\GADE Task1\GadeProject\bin\Debug\net6.0-windows\GadeProject.runtimeconfig.json
+C:\Users\xolan\OneDrive\Desktop\GADE Task1\GadeProject\bin\Debug\net6.0-windows\GadeProject.dll
+C:\Users\xolan\OneDrive\Desktop\GADE Task1\GadeProject\bin\Debug\net6.0-windows\GadeProject.pdb
+C:\Users\xolan\OneDrive\Desktop\GADE Task1\GadeProject\obj\Debug\net6.0-windows\GadeProject.genruntimeconfig.cache
+C:\Users\xolan\OneDrive\Desktop\GADE Task1\GadeProject\obj\Debug\net6.0-windows\ref\GadeProject.dll
+C:\Users\gpsqu\Downloads\GADE_Task1_2\GADE Task1\GadeProject\bin\Debug\net6.0-windows\GadeProject.exe
+C:\Users\gpsqu\Downloads\GADE_Task1_2\GADE Task1\GadeProject\bin\Debug\net6.0-windows\GadeProject.deps.json
+C:\Users\gpsqu\Downloads\GADE_Task1_2\GADE Task1\GadeProject\bin\Debug\net6.0-windows\GadeProject.runtimeconfig.json
+C:\Users\gpsqu\Downloads\GADE_Task1_2\GADE Task1\GadeProject\bin\Debug\net6.0-windows\GadeProject.dll
+C:\Users\gpsqu\Downloads\GADE_Task1_2\GADE Task1\GadeProject\bin\Debug\net6.0-windows\GadeProject.pdb
+C:\Users\gpsqu\Downloads\GADE_Task1_2\GADE Task1\GadeProject\obj\Debug\net6.0-windows\GadeProject.csproj.AssemblyReference.cache
+C:\Users\gpsqu\Downloads\GADE_Task1_2\GADE Task1\GadeProject\obj\Debug\net6.0-windows\GadeProject.Form1.resources
+C:\Users\gpsqu\Downloads\GADE_Task1_2\GADE Task1\GadeProject\obj\Debug\net6.0-windows\GadeProject.csproj.GenerateResource.cache
+C:\Users\gpsqu\Downloads\GADE_Task1_2\GADE Task1\GadeProject\obj\Debug\net6.0-windows\GadeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gpsqu\Downloads\GADE_Task1_2\GADE Task1\GadeProject\obj\Debug\net6.0-windows\GadeProject.AssemblyInfoInputs.cache
+C:\Users\gpsqu\Downloads\GADE_Task1_2\GADE Task1\GadeProject\obj\Debug\net6.0-windows\GadeProject.AssemblyInfo.cs
+C:\Users\gpsqu\Downloads\GADE_Task1_2\GADE Task1\GadeProject\obj\Debug\net6.0-windows\GadeProject.csproj.CoreCompileInputs.cache
+C:\Users\gpsqu\Downloads\GADE_Task1_2\GADE Task1\GadeProject\obj\Debug\net6.0-windows\GadeProject.dll
+C:\Users\gpsqu\Downloads\GADE_Task1_2\GADE Task1\GadeProject\obj\Debug\net6.0-windows\refint\GadeProject.dll
+C:\Users\gpsqu\Downloads\GADE_Task1_2\GADE Task1\GadeProject\obj\Debug\net6.0-windows\GadeProject.pdb
+C:\Users\gpsqu\Downloads\GADE_Task1_2\GADE Task1\GadeProject\obj\Debug\net6.0-windows\GadeProject.genruntimeconfig.cache
+C:\Users\gpsqu\Downloads\GADE_Task1_2\GADE Task1\GadeProject\obj\Debug\net6.0-windows\ref\GadeProject.dll
+C:\Users\xolan\OneDrive\Desktop\GADE_Task1_2\GADE Task1\GadeProject\bin\Debug\net6.0-windows\GadeProject.exe
+C:\Users\xolan\OneDrive\Desktop\GADE_Task1_2\GADE Task1\GadeProject\bin\Debug\net6.0-windows\GadeProject.deps.json
+C:\Users\xolan\OneDrive\Desktop\GADE_Task1_2\GADE Task1\GadeProject\bin\Debug\net6.0-windows\GadeProject.runtimeconfig.json
+C:\Users\xolan\OneDrive\Desktop\GADE_Task1_2\GADE Task1\GadeProject\bin\Debug\net6.0-windows\GadeProject.dll
+C:\Users\xolan\OneDrive\Desktop\GADE_Task1_2\GADE Task1\GadeProject\bin\Debug\net6.0-windows\GadeProject.pdb
+C:\Users\xolan\OneDrive\Desktop\GADE_Task1_2\GADE Task1\GadeProject\obj\Debug\net6.0-windows\GadeProject.csproj.AssemblyReference.cache
+C:\Users\xolan\OneDrive\Desktop\GADE_Task1_2\GADE Task1\GadeProject\obj\Debug\net6.0-windows\GadeProject.Form1.resources
+C:\Users\xolan\OneDrive\Desktop\GADE_Task1_2\GADE Task1\GadeProject\obj\Debug\net6.0-windows\GadeProject.csproj.GenerateResource.cache
+C:\Users\xolan\OneDrive\Desktop\GADE_Task1_2\GADE Task1\GadeProject\obj\Debug\net6.0-windows\GadeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xolan\OneDrive\Desktop\GADE_Task1_2\GADE Task1\GadeProject\obj\Debug\net6.0-windows\GadeProject.AssemblyInfoInputs.cache
+C:\Users\xolan\OneDrive\Desktop\GADE_Task1_2\GADE Task1\GadeProject\obj\Debug\net6.0-windows\GadeProject.AssemblyInfo.cs
+C:\Users\xolan\OneDrive\Desktop\GADE_Task1_2\GADE Task1\GadeProject\obj\Debug\net6.0-windows\GadeProject.csproj.CoreCompileInputs.cache
+C:\Users\xolan\OneDrive\Desktop\GADE_Task1_2\GADE Task1\GadeProject\obj\Debug\net6.0-windows\GadeProject.dll
+C:\Users\xolan\OneDrive\Desktop\GADE_Task1_2\GADE Task1\GadeProject\obj\Debug\net6.0-windows\refint\GadeProject.dll
+C:\Users\xolan\OneDrive\Desktop\GADE_Task1_2\GADE Task1\GadeProject\obj\Debug\net6.0-windows\GadeProject.pdb
+C:\Users\xolan\OneDrive\Desktop\GADE_Task1_2\GADE Task1\GadeProject\obj\Debug\net6.0-windows\GadeProject.genruntimeconfig.cache
+C:\Users\xolan\OneDrive\Desktop\GADE_Task1_2\GADE Task1\GadeProject\obj\Debug\net6.0-windows\ref\GadeProject.dll
+C:\Users\gpsqu\Downloads\GADE_Project_2\GADE_Task1_2\GADE Task1\GadeProject\bin\Debug\net6.0-windows\GadeProject.exe
+C:\Users\gpsqu\Downloads\GADE_Project_2\GADE_Task1_2\GADE Task1\GadeProject\bin\Debug\net6.0-windows\GadeProject.deps.json
+C:\Users\gpsqu\Downloads\GADE_Project_2\GADE_Task1_2\GADE Task1\GadeProject\bin\Debug\net6.0-windows\GadeProject.runtimeconfig.json
+C:\Users\gpsqu\Downloads\GADE_Project_2\GADE_Task1_2\GADE Task1\GadeProject\bin\Debug\net6.0-windows\GadeProject.dll
+C:\Users\gpsqu\Downloads\GADE_Project_2\GADE_Task1_2\GADE Task1\GadeProject\bin\Debug\net6.0-windows\GadeProject.pdb
+C:\Users\gpsqu\Downloads\GADE_Project_2\GADE_Task1_2\GADE Task1\GadeProject\obj\Debug\net6.0-windows\GadeProject.csproj.AssemblyReference.cache
+C:\Users\gpsqu\Downloads\GADE_Project_2\GADE_Task1_2\GADE Task1\GadeProject\obj\Debug\net6.0-windows\GadeProject.Form1.resources
+C:\Users\gpsqu\Downloads\GADE_Project_2\GADE_Task1_2\GADE Task1\GadeProject\obj\Debug\net6.0-windows\GadeProject.csproj.GenerateResource.cache
+C:\Users\gpsqu\Downloads\GADE_Project_2\GADE_Task1_2\GADE Task1\GadeProject\obj\Debug\net6.0-windows\GadeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gpsqu\Downloads\GADE_Project_2\GADE_Task1_2\GADE Task1\GadeProject\obj\Debug\net6.0-windows\GadeProject.AssemblyInfoInputs.cache
+C:\Users\gpsqu\Downloads\GADE_Project_2\GADE_Task1_2\GADE Task1\GadeProject\obj\Debug\net6.0-windows\GadeProject.AssemblyInfo.cs
+C:\Users\gpsqu\Downloads\GADE_Project_2\GADE_Task1_2\GADE Task1\GadeProject\obj\Debug\net6.0-windows\GadeProject.csproj.CoreCompileInputs.cache
+C:\Users\gpsqu\Downloads\GADE_Project_2\GADE_Task1_2\GADE Task1\GadeProject\obj\Debug\net6.0-windows\GadeProject.dll
+C:\Users\gpsqu\Downloads\GADE_Project_2\GADE_Task1_2\GADE Task1\GadeProject\obj\Debug\net6.0-windows\refint\GadeProject.dll
+C:\Users\gpsqu\Downloads\GADE_Project_2\GADE_Task1_2\GADE Task1\GadeProject\obj\Debug\net6.0-windows\GadeProject.pdb
+C:\Users\gpsqu\Downloads\GADE_Project_2\GADE_Task1_2\GADE Task1\GadeProject\obj\Debug\net6.0-windows\GadeProject.genruntimeconfig.cache
+C:\Users\gpsqu\Downloads\GADE_Project_2\GADE_Task1_2\GADE Task1\GadeProject\obj\Debug\net6.0-windows\ref\GadeProject.dll
